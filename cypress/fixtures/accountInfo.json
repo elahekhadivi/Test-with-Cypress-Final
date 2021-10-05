@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "Email": "el.khadivi@gmail.com",
+        "firstName": "Elham",
+        "lastName": "kh",
+        "password": "Whatever12",
+        "birthDay": "12",
+        "birthMonth": "October",
+        "birthYear": "2001",
+        "address": "231 narinia",
+        "city": "my city",
+        "state": "Ohio",
+        "postcode": "99887",
+        "mobile": "1234567890"
+    },
+    {
+        "id":2,
+        "Email": "el.khadivi+test500@gmail.com",
+        "firstName": "Elahe",
+        "lastName": "kh",
+        "password": "Whatever11",
+        "birthDay": "12",
+        "birthMonth": "January",
+        "birthYear": "1981",
+        "address": "231 narinia",
+        "city": "my city",
+        "state": "Ohio",
+        "postcode": "99887",
+        "mobile": "1234567890"
+    },
+    {
+        "id":3,
+        "Email": "el.khadivi+test501@gmail.com",
+        "firstName": "EHsan",
+        "lastName": "kh",
+        "password": "Whatever22",
+        "birthDay": "12",
+        "birthMonth": "April",
+        "birthYear": "2003",
+        "address": "231 narinia",
+        "city": "my city",
+        "state": "Ohio",
+        "postcode": "99887",
+        "mobile": "1234567890"
+    }
+]
